@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     //who edit
     self.view.backgroundColor = [UIColor redColor];
+    self.view.alpha = 1;
 }
 
 
